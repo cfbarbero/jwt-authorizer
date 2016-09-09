@@ -1,0 +1,7 @@
+{
+  "lambda": {
+    "role": "jwt-authorizer-executor",
+    "name": "jwt-authorizer",
+    "region": "us-east-1"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "name": "jwt-authorizer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cfbarbero/jwt-authorizer.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cfbarbero/jwt-authorizer/issues"
+  },
+  "homepage": "https://github.com/cfbarbero/jwt-authorizer#readme",
+  "dependencies": {
+    "aws-sdk": "^2.6.0",
+    "jsonwebtoken": "^7.1.9"
+  },
+  "devDependencies": {
+    "claudia": "^1.8.0"
+  }
+}
